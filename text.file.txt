@@ -3,3 +3,6 @@ This is a test and I'm on test branch
 Here is some more text
 
 Here is a little bit more
+
+i'm adding text for a new commit
+
